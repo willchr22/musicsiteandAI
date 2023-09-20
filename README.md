@@ -1,5 +1,5 @@
 MWT:
-MWT is a website created for anyone who likes music, collects records, and more!
+MWT is the outline of a website created for anyone who likes music, collects records, and more!
 Users can keep track of their collection by using our add feature and remove things from their collection by using the remove feature. Users can also keep track of the records they may want in the future through the wishlist feature. 
 
 VibeMatch: 

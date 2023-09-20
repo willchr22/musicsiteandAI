@@ -1,0 +1,240 @@
+
+# screen 1 (after a blank line)
+ 	 /        \
+	| Welcome! |
+ 	 \        /
+
+Press enter to start.
+
+# screen 2
+|  Please choose an option:  
+|  1) Login                 
+|  2) Register               
+
+     	choice:
+# screen 3
+| 		(Login)            	
+| Username:                 
+|                			
+
+     	choice:
+# screen 4
+|     	(Login)            	
+| Password:             	
+|                       	
+	
+	choice:
+
+# screen 5
+|		(Register)          
+| Enter a username:			
+|							
+
+		choice:
+# screen 6
+|		(Register)          
+| Enter a password:			
+|							
+
+		choice:
+
+# screen 7
+|		(Register)          
+| Enter your name:			
+|							
+
+		choice:
+
+# screen 8
+|		(Register)          
+| Enter your email:			
+|							
+
+		choice:
+
+# screen 9					
+| Please select an option: 
+|1) Add to your collection  
+|2) Print your collection   
+|3) Add to your wishlist 
+|4) Print your wishlist   
+|5) Remove from your collection
+|6) Remove from your wishlist
+|7) Vibematch                  
+|8) Quit
+
+# screen 10
+|  Add to your collection.
+|  Type "90" to stop adding
+
+# screen 11
+| (1) Return (2) Quit
+|   Your collection:                       
+ 
+# screen 12
+|   Add to your wishlist.   
+|   Type "90" to stop adding
+
+# screen 13
+| (1) Return (2) Quit
+|   Your Wishlist:            
+|         
+
+# screen 14
+|   (Collection)
+| What would you like to remove?   
+|	Type "90" to stop removing
+		:				
+
+# screen 15
+|   (Wishlist)
+| What would you like to remove?    
+|	Type "90" to stop removing
+		:		
+
+# screen 16
+| Welcome to VibeMatch!
+|
+| Press enter to start.
+
+# screen 17
+|  You will rate 15 songs from 0.5 to 5.0.
+|  Enter "0.0" if it is not a song you
+|  are familiar with.
+|
+|  1) Continue
+|  2) Return to Menu        
+
+     	choice:
+# screen 18
+| 	Rate "Heroes" by David Bowie           	
+|                  
+|                			
+
+     	choice:
+# screen 19
+|   Rate "Party in the USA" by Miley Cyrus     	           	
+|        	
+|                       	
+	
+	choice:
+# screen 20
+|   Rate "The Blacker the Berry" by Kendrick Lamar   	           	
+|        	
+|                       	
+	
+	choice:
+# screen 21
+|   Rate "1979" by The Smashing Pumpkins	           	
+|        	
+|                       	
+	
+	choice:
+# screen 22
+|   Rate "All My Friends" by LCD Soundsystem    	           	
+|        	
+|                       	
+	
+	choice:    
+# screen 23
+|   Rate "Hollywood Baby" by 100 gecs    	           	
+|        	
+|                       	
+	
+	choice:
+# screen 24
+|   Rate "Come Together" by The Beatles    	           	
+|        	
+|                       	
+	
+	choice:
+# screen 25
+|   Rate "Billie Jean" by Michael Jackson     	           	
+|        	
+|                       	
+	
+	choice:
+# screen 26
+|   Rate "Imagine" by John Lennon   	           	
+|        	
+|                       	
+	
+	choice:
+# screen 27
+|   Rate "Smells Like Teen Spirit" by Nirvana   	           	
+|        	
+|                       	
+	
+	choice:
+# screen 28
+|   Rate "Sweet Child O'Mine" by Guns N' Roses   	           	
+|        	
+|                       	
+	
+	choice:
+# screen 29
+|   Rate "What's Going On" by Marvin Gaye 	           	
+|        	
+|                       	
+	
+	choice:
+# screen 30
+|   Rate "White Ferrari" by Frank Ocean   	           	
+|        	
+|                       	
+	
+	choice:
+# screen 31
+|   Rate "Andromeda" by Weyes Blood 	           	
+|        	
+|                       	
+	
+	choice:
+# screen 32
+|   Rate "Motion Sickness" by Phoebe Bridgers	           	
+|        	
+|                       	
+	
+	choice:
+# screen 33
+| 1) return to Menu
+| 2) Quit   
+|
+|Your reccomendation is: 
+
+# screen 34
+|   Thank you for using MWT
+
+# screen 35
+|  Login Failed
+|  Please choose an option:  
+|  1) Login                 
+|  2) Register       
+		
+		choice:
+
+# screen 36
+|		(Register)          
+| Enter a valid username:			
+|	(4 + Characters)					
+
+		choice:
+
+# screen 37
+|		(Register)          
+| Enter a valid password:			
+|	(4 + Characters)					
+
+		choice:
+
+# screen 38
+| Please select a valid option: 
+|1) Add to your collection  
+|2) Print your collection   
+|3) Add to your wishlist 
+|4) Print your wishlist   
+|5) Remove from your collection
+|6) Remove from your wishlist
+|7) Vibematch                  
+|8) Quit
+
